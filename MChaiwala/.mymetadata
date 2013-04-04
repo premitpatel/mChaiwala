@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enterprise-project
+  version="1.0.0"
+  name="MChaiwala"
+  id="myeclipse.1361902919506"
+  j2ee-spec="5.0"
+  archive="MChaiwala.ear">
+  <project-modules>
+    <project-module
+      type="WEB"
+      name="MChaiwalaWeb"
+      id="myeclipse.1361902918920"
+      context-root="/MChaiwalaWeb"
+      j2ee-spec="5.0"
+      archive="MChaiwalaWeb.war">
+      <attributes>
+        <attribute name="webrootdir" value="WebRoot" />
+      </attributes>
+    </project-module>
+    <project-module
+      type="EJB"
+      name="MChaiwalaEJB"
+      id="myeclipse.1361902919483"
+      j2ee-spec="5.0"
+      archive="MChaiwalaEJB.jar" />
+  </project-modules>
+</enterprise-project>
+

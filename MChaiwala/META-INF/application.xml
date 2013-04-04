@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_5.xsd">
+  <display-name>MChaiwala</display-name>
+  <module id="myeclipse.1361902918920">
+    <web>
+      <web-uri>MChaiwalaWeb.war</web-uri>
+      <context-root>/MChaiwalaWeb</context-root>
+    </web>
+  </module>
+  <module id="myeclipse.1361902919483">
+    <ejb>MChaiwalaEJB.jar</ejb>
+  </module>
+</application>
+
