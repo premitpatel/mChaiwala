@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="/MChaiwalaEJB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/apache-mime4j.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jackson-core-asl.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jackson-jaxrs.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jackson-mapper-asl.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jackson-xc-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jaxrs-api.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/jyaml.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-atom-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-cache-core.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-fastinfoset-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-guice.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-jackson-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-jaxb-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-jaxrs.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-jettison-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-multipart-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-spring.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/resteasy-yaml-provider.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/scannotation.jar"/>
+	<classpathentry kind="lib" path="/MChaiwala/lib/log4j.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

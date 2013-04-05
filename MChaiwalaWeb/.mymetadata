@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MChaiwalaWeb"
+  id="myeclipse.1361902918920"
+  context-root="/MChaiwalaWeb"
+  j2ee-spec="5.0"
+  archive="MChaiwalaWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
